@@ -1,0 +1,18 @@
+{
+  "name": "Monokai Pro (Filter Spectrum)",
+  "appearance": "dark",
+  "red": "#FC618D",
+  "orange": "#FD9353",
+  "yellow": "#FCE566",
+  "green": "#7BD88F",
+  "cyan": "#5AD4E6",
+  "purple": "#948AE3",
+  "text": "#F7F1FF",
+  "dimmed1": "#BAB6C0",
+  "dimmed2": "#8B888F",
+  "dimmed3": "#69676C",
+  "dimmed4": "#525053",
+  "dimmed5": "#363537",
+  "background": "#222222",
+  "backgroundDark": "#191919"
+}
